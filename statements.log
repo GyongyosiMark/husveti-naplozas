@@ -1,0 +1,14 @@
+[1] - FATAL [pkg.Main.main()] - Korán reggel útra keltem,
+[1] - ERROR [pkg.Main.main()] - Se nem ittam, se nem ettem.
+[1] - WARN  [pkg.Main.main()] - Tarisznya húzza a vállam,
+[1] - INFO  [pkg.Main.main()] - Térdig kopott már a lábam.
+[1] - DEBUG [pkg.Main.main()] - Bejártam a fél világot,
+[1] - TRACE [pkg.Main.main()] - Láttam sok-sok szép virágot.
+[1] - FATAL [pkg.Main.main()] - A legszebbre most találtam,
+[2] - FATAL [pkg.Main.main()] - Korán reggel útra keltem,
+[2] - ERROR [pkg.Main.main()] - Se nem ittam, se nem ettem.
+[2] - WARN  [pkg.Main.main()] - Tarisznya húzza a vállam,
+[2] - INFO  [pkg.Main.main()] - Térdig kopott már a lábam.
+[2] - DEBUG [pkg.Main.main()] - Bejártam a fél világot,
+[2] - TRACE [pkg.Main.main()] - Láttam sok-sok szép virágot.
+[2] - FATAL [pkg.Main.main()] - A legszebbre most találtam,
